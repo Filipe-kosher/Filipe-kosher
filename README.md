@@ -1,9 +1,20 @@
-<h1 align="center">Olá 👋, Eu sou o Filipe</h1>
-<h3 align="center">O controle além do ego.</h3>
+<h1 align="center">👋 Olá, eu sou o Filipe!</h1>
+<h3 align="center">Desenvolvedor focado em frontend, minimalismo e código limpo.</h3>
+<p align="center">"O controle além do ego."</p>
 
 ---
 
-### 🛠️ Linguagens e Ferramentas:
+## 🧑‍💻 Sobre mim  
+
+- 🎯 Foco principal em desenvolvimento **Frontend** com atenção a boas práticas, minimalismo e usabilidade.  
+- 💡 Gosto de criar interfaces **intuitivas** e **funcionais** que entregam uma boa experiência ao usuário.  
+- 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  
+- 🤝 Aberto a colaborar em projetos **open source** e trocar experiências com a comunidade.  
+
+---
+
+## 🛠️ Tecnologias que domino  
+
 <p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
@@ -21,18 +32,22 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
+## 📊 Minhas estatísticas no GitHub  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Filipe-kosher&show_icons=true&locale=en&layout=compact" alt="Top linguagens" />
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Filipe-kosher&show_icons=true&locale=en&layout=compact" alt="Top linguagens"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Filipe-kosher&show_icons=true&locale=en" alt="Estatísticas do GitHub" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Filipe-kosher&show_icons=true&locale=en" alt="Estatísticas do GitHub"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Filipe-kosher" alt="GitHub Streak" />
-</div>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Filipe-kosher" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### ✅ Status:
-- Disponível para colaborar em projetos open source.
-- Foco: Frontend, código limpo e minimalismo.
+## 🚀 O que estou fazendo atualmente  
+
+- ✅ Colaborando em projetos **open source**.  
+- 🎯 Aprofundando conhecimentos em **frontend**.  
+- 📝 Compartilhando código limpo e boas práticas.  
+
+---
