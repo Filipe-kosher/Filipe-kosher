@@ -1,15 +1,14 @@
-<h1 align="center">👋 Olá, eu sou o Filipe!</h1>
+<h1 align="center">Olá, eu sou o Filipe!</h1>
 <h3 align="center">Desenvolvedor focado em frontend, minimalismo e código limpo.</h3>
 <p align="center">"O controle além do ego."</p>
 
 ---
 
-## 🧑‍💻 Sobre mim  
+## Sobre mim  
 
-- 🎯 Foco principal em desenvolvimento **Frontend** com atenção a boas práticas, minimalismo e usabilidade.  
+- 🎯 Foco principal em desenvolvimento **Frontend**, minimalismo e usabilidade.  
 - 💡 Gosto de criar interfaces **intuitivas** e **funcionais** que entregam uma boa experiência ao usuário.  
 - 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  
-- 🤝 Aberto a colaborar em projetos **open source** e trocar experiências com a comunidade.  
 
 ---
 
@@ -46,7 +45,6 @@
 
 ## 🚀 O que estou fazendo atualmente  
 
-- ✅ Colaborando em projetos **open source**.  
 - 🎯 Aprofundando conhecimentos em **frontend**.  
 - 📝 Compartilhando código limpo e boas práticas.  
 
