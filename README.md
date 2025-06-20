@@ -27,8 +27,16 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Batch" width="40" height="40"/>
+  </a>
+  <a href="https://en.wikipedia.org/wiki/VBScript" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/VBScript_Logo.png" alt="VBScript" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="PowerShell" width="40" height="40"/>
+  </a>
 </p>
-
 ---
 
 ## Minhas estatísticas no GitHub  
