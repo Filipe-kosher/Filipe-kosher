@@ -39,7 +39,7 @@
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="ViteJS" width="40" height="40"/>
   </a>
-<img src="https://raw.githubusercontent.com/Filipe-kosher/neutralinojs.png"/>
+<img src="https://raw.githubusercontent.com/Filipe-kosher/neutralino.png"/>
 </p>
 ---
 
