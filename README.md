@@ -39,9 +39,7 @@
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
     <img src="https://vitejs.dev/logo.svg" alt="ViteJS" width="40" height="40"/>
   </a>
-<a href="https://neutralino.js.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/neutralinojs/neutralinojs/main/resources/neutralinojs-icon.png" alt="NeutralinoJS" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/Filipe-kosher/neutralinojs.png"/>
 </p>
 ---
 
