@@ -15,28 +15,28 @@
 ## Tecnologias que domino  
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer" title="Fair use of copyright material in the context of Batch file">
-    <img src="https://upload.wikimedia.org/wikipedia/en/8/89/Batch_file_icon.png" width="40" height="40"/>
+  <a href="https://en.wikipedia.org/wiki/Batch_file" target="_blank" rel="noreferrer" title="Batch file icon">
+    <img src="https://raw.githubusercontent.com/Filipe-kosher/Filipe-kosher/main/Batch.png" width="40" height="40" />
   </a>
   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="40" height="40" />
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" />
   </a>
   <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
-    <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
+    <img src="https://vitejs.dev/logo.svg" width="40" height="40" />
   </a>
   <img src="https://raw.githubusercontent.com/Filipe-kosher/Filipe-kosher/main/neutralino.png" height="50" />
 </p>
