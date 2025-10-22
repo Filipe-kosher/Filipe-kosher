@@ -13,17 +13,8 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,git,mysql,figma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,git,mysql,mongodb,python,nodejs,typescript,vitejs&theme=light" />
 </div>
 
-<div align="center">
-  <h3>Currently Learning</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,react,js&theme=light" />
-</div>
-
-<div align="center">
-<br><p align="centre"><b>Profile Views</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Filipe-kosher}/count.svg" /></p> 
-<br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=808080&height=120&section=footer"/>
