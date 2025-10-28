@@ -13,7 +13,7 @@
 
 <div align="center">
   <h3>Technologies & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,mysql,mongodb,python,typescript&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vscode,mysql,mongodb,python,typescript,vuejs&theme=light" />
 </div>
 
 
