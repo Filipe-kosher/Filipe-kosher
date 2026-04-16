@@ -12,11 +12,7 @@ Sou um desenvolvedor de software apaixonado por tecnologia e inovação. Estou s
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
-
-## Contate-me
-Você pode me encontrar em:
-- [LinkedIn](https://www.linkedin.com/in/filipe-kosher)
-- [Twitter](https://twitter.com/filipe_kosher)
+![Html]
 
 ## Projetos em destaque
 - [Projeto 1](https://github.com/filipe-kosher/projeto-1)
