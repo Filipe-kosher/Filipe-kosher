@@ -1,30 +1,40 @@
-# 🌟 Welcome to My Profile! 🌟
+# Olá, eu sou Filipe Kosher! 👋
 
-![Header Animation](https://media.giphy.com/media/xTkcEPSKsrHeQ7cEhS/giphy.gif)
+## Sobre Mim
 
-## 🤔 About Me
-Hello! I'm **Filipe Kosher**, a passionate developer with a knack for creating engaging and user-friendly applications. I love exploring new technologies and improving my skills every day.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Adoro aprender e compartilhar conhecimentos sobre programação e desenvolvimento de software.
 
-## 🛠️ Skills
-- 💻 **Languages:** JavaScript, Python, Java
-- 🌐 **Frameworks:** React, Node.js, Django
-- 🔧 **Tools:** Git, Docker, Webpack
-- 🔍 **Databases:** MongoDB, PostgreSQL
+---
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,java,react,nodejs,django,git,docker,postgresql)](https://skillicons.dev)
+## Habilidades
 
-## 📁 Projects
-Here are some of my notable projects:
-- [Project 1](https://github.com/Filipe-kosher/project1): A brief description of what this project does.
-- [Project 2](https://github.com/Filipe-kosher/project2): A brief description of what this project does.
-- [Project 3](https://github.com/Filipe-kosher/project3): A brief description of what this project does.
+- Desenvolvimento Web
+- Programação em Python, JavaScript e PHP
+- Conhecimento em banco de dados (MySQL, MongoDB)
 
-## 📫 Contact Me
-Feel free to reach out via:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:yourname@example.com)
+---
 
-## 📊 GitHub Stats
-![Filipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Filipe-kosher&show_icons=true&theme=radical)
+## Tecnologias
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipe-kosher&theme=radical)
+- HTML, CSS e JavaScript
+- React e Node.js
+- Django
+
+---
+
+## Contato
+
+- Email: filipe.kosher@example.com
+- LinkedIn: [filipe-kosher](https://www.linkedin.com/in/filipe-kosher)
+- Twitter: [@filipe_kosher](https://twitter.com/filipe_kosher)
+
+---
+
+## Estatísticas do GitHub 📊
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=filipe-kosher&show_icons=true&theme=radical)  
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=filipe-kosher&layout=compact&theme=radical)  
+
+---
+
+Agradeço pela visita ao meu perfil! 😊
