@@ -1,4 +1,4 @@
-# Olá, eu sou Filipe Kosher!
+# Olá, eu sou Filipe!
 
 Bem-vindo ao meu perfil do GitHub.
 
@@ -11,11 +11,6 @@ Sou um desenvolvedor de software (no momento focado em projetos frontend) apaixo
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff)
-
-
-## Projetos em destaque
-- [Projeto 1](https://github.com/filipe-kosher/projeto-1)
-- [Projeto 2](https://github.com/filipe-kosher/projeto-2)
 
 ## Minhas Habilidades
 - Desenvolvimento Web
